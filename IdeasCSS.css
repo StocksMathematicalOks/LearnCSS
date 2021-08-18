@@ -1,0 +1,67 @@
+body {
+    background-color: var(--white);
+    color: var(--font-color);
+    font-family: Nunito,sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+:root {
+    --font-color: #535763;
+    --white: #fff;
+    --red: #f00046;
+    --green: #08a97e;
+    --orange: #fa9100;
+    --orange-hover: #ff7814;
+    --darkblue: #006482;
+    --darkblue-hover: #0078a0;
+    --blue: #00aabe;
+    --blue-hover: #39c6f5;
+    --dark--1: #2d2d2f;
+    --dark: #363638;
+    --dark-1: #28282b;
+    --gray: #6c6c6e;
+    --gray-1: #8d8d8f;
+    --gray-2: #ababb1;
+    --gray-3: #cbcbd2;
+    --gray-4: #e3e3ea;
+    --gray-5: #e0e0e0;
+    --light: #f2f2f4;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+
+#demobox {
+  background-color: #BDC3C7 ;
+  padding: 10px ;
+  border: 1px solid white;
+}
+#demobox2 {
+  background-color: #E5E7E9 
+  ;
+  padding: 10px ;
+  border: 1px solid white;
+}
+#demobox3 {
+  background-color: #E5E7E9 
+ ;
+  padding: 10px ;
+  border: 1px solid white;
+}
+#demobox12 {
+    background-color: #E5E7E9
+;
+    padding: 10px ;
+    border: 1px solid white;
+    width: 500px;
+    height: 350px;
+    position: absolute;
+}
+.container{
+    display:flex;
+    align-items:center;
+}
